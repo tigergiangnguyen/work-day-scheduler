@@ -46,3 +46,7 @@ THEN the saved events persist
 ## Screenshot of Deployed Application
 
 ![Deployed Application](./assets/screenshotOfApplication.png)
+
+## Credit
+
+Tiger Nguyen
