@@ -49,4 +49,7 @@ THEN the saved events persist
 
 ## Credit
 
-Tiger Nguyen
+ - Bootstrap
+ - Google Fonts
+ - JQuery
+ - Dayjs
